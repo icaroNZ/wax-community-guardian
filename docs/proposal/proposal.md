@@ -274,7 +274,7 @@ By focusing on these areas, we aim to ensure that the WAX Community Guardian rem
 
 ## Development Roadmap
 
-For more details see the [Development Roadmap](wax_discord_bot_road_map.md)
+For more details see the [Development Roadmap](roadmap.md)
 
 ## Conclusion
 
